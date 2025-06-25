@@ -1,4 +1,4 @@
-# Define entropy as characterizing the process of system energy homogenization
+## Define entropy as characterizing the process of system energy homogenization
 
 Define entropy as a physical quantity characterizing the irreversible process of energy homogenization in a system.
 
@@ -6,7 +6,7 @@ The topological homeomorphic structure of the universe establishes a fundamental
 
 Multiplicative entropy (𝑆=∏ᵢ𝑚ᵢ), with 𝑚ᵢ representing the energy carried by each elementary cosmo-quanta, provides a precise mathematical description of this energy homogenization process. Unlike classical additive entropy measures, the multiplicative form inherently captures the interconnected nature of energy redistribution across spacetime's discrete lattice. 
 
-## Definition and analysis formula of entropy In this definition of entropy, the entropy value of a closed system at a given moment (i.e., during a specific state transition) is calculated as the multiplicative product of the energy norms of all SEQ involved in that transition(that moment’s space transformation).
+### Definition and analysis formula of entropy In this definition of entropy, the entropy value of a closed system at a given moment (i.e., during a specific state transition) is calculated as the multiplicative product of the energy norms of all SEQ involved in that transition(that moment’s space transformation).
 
 # Entropy value of closed system S=∏mᵢ, i∈N       ①
 
@@ -38,12 +38,12 @@ Sₜ₁/Sₜ₂=(a−h)(b+h)/ab=1+h(a−b−h)/ab＞1 (Planck's constant h)
 
 Indeed, this model establishes a novel analytic quantum thermodynamic framework where coarse-graining automatically enforces the indistinguishability of microscopic particles in physical properties while simultaneously characterizing the entropy-increasing process of energy homogenization. These properties collectively confirm the validity of this entropy definition.
 
-# The Spontaneous Entropy Increase is Causality.
+## The Spontaneous Entropy Increase is Causality.
 The existence of isoentropic transformations implies that even with the constraint of the least action principle further limiting the degrees of freedom in future spatial transformation paths, the potential spacetime evolution trajectories are not necessarily unique. Within this model's framework, multiple solutions may satisfy the least action condition, indicating that while causality adheres to Markovian properties, a certain dynamic freedom persists.
 
 The existence of isoentropic transformations and different entropy-increasing pathways imply that even with the constraint of the least action principle further limiting the degrees of freedom in future spatial transformation paths, the potential spacetime evolution trajectories are not necessarily unique. Within this model's framework, multiple solutions may satisfy the least action condition, indicating that while causality adheres to Markovian properties, with a certain dynamic freedom persists.
 
-# Why Analytic Entropy is Adopted: 
+## Why Analytic Entropy is Adopted: 
 
 Within this model's framework, physical states at Planck-time scales exhibit deterministic characteristics. Although current experimental conditions cannot directly measure them, traditional statistical entropy can be reduced to analytic expressions at this scale. This perspective not only reveals the microscopic essence of statistical quantities but also provides a new analytic foundation for quantum thermodynamics—
 
