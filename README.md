@@ -6,7 +6,7 @@ The topological homeomorphic structure of the universe establishes a fundamental
 
 Multiplicative entropy (𝑆=∏ᵢ𝑚ᵢ), with 𝑚ᵢ representing the energy carried by each elementary cosmo-quanta, provides a precise mathematical description of this energy homogenization process. Unlike classical additive entropy measures, the multiplicative form inherently captures the interconnected nature of energy redistribution across spacetime's discrete lattice. 
 
-# Definition and analysis formula of entropy In this definition of entropy, the entropy value of a closed system at a given moment (i.e., during a specific state transition) is calculated as the multiplicative product of the energy norms of all SEQ involved in that transition(that moment’s space transformation).
+## Definition and analysis formula of entropy In this definition of entropy, the entropy value of a closed system at a given moment (i.e., during a specific state transition) is calculated as the multiplicative product of the energy norms of all SEQ involved in that transition(that moment’s space transformation).
 
 # Entropy value of closed system S=∏mᵢ, i∈N       ①
 
